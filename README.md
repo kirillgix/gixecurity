@@ -44,7 +44,7 @@ gixecurity/
 ├── gixec.py
 ├── rules
 │   └── scan_rule.yar
-└── log 
+└── log
     └── whitelist.txt
 
 
