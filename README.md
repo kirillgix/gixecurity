@@ -21,7 +21,6 @@ list of all malware scanned by **gixec**, (based on YARA):
 
 
 
-
 list of changes monitored by **gixcontrol**:
 
 
@@ -33,7 +32,22 @@ list of changes monitored by **gixcontrol**:
 
 -create new file
 
+*right directory tree*
+
 -cpu processes
+
+gixecurity/
+│
+├── LICENSE
+├── .gitignore
+├── README.md
+├── gixec.py
+├── rules
+│   └── scan_rule.yar
+└── log 
+    └── whitelist.txt
+
+
 
 -ram processes
 
