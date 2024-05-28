@@ -4,7 +4,7 @@ for more information, please read the code of our software.
 
 list of all malware scanned by gixecurity:
     
-KeyloggerBehavior: Detects suspicious behavior patterns indicative of keylogger activity on the system.
+**KeyloggerBehavior**: Detects suspicious behavior patterns indicative of keylogger activity on the system.
 
 WebShellPattern: Identifies patterns associated with web shells, which are malicious web scripts used for unauthorized remote control.
 
