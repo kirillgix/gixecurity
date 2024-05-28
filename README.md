@@ -21,18 +21,19 @@ list of all malware scanned by **gixec**, (based on YARA):
 
 
 
+
 list of changes monitored by **gixcontrol**:
 
 
-modified content
+-modified content
 
-moving from one directory to another
+-moving from one directory to another
 
-delete file
+-delete file
 
-create new file
+-create new file
 
-cpu processes
+-cpu processes
 
-ram processes
+-ram processes
 
