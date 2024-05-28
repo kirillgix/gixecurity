@@ -2,7 +2,7 @@
 gixesecurity is a suite of programs to scan your system for malware, find vulnerabilities in your system, and monitor changes to system directories.
 see our software code for more information.
 
-list of all malware scanned by gixecurity:
+list of all malware scanned by **gixec**:
     
 **KeyloggerBehavior**: Detects suspicious behavior patterns indicative of keylogger activity on the system.
 
@@ -17,4 +17,21 @@ list of all malware scanned by gixecurity:
 **MaliciousFileExtension**: Detects files with potentially harmful extensions commonly used by malware.
 
 **SuspiciousProcessInjection**: Detects suspicious patterns indicative of process injection, a technique used by malware to inject code into legitimate processes.
+
+*based on YARA*
+
+
+list of changes monitored by **gixcontrol**:
+
+modified content
+
+moving from one directory to another
+
+delete file
+
+create new file
+
+cpu processes
+
+ram processes
 
