@@ -36,18 +36,5 @@ list of changes monitored by **gixcontrol**:
 
 -cpu processes
 
-gixecurity/
-│
-├── LICENSE
-├── .gitignore
-├── README.md
-├── gixec.py
-├── rules
-│   └── scan_rule.yar
-└── log
-    └── whitelist.txt
-
-
-
 -ram processes
 
